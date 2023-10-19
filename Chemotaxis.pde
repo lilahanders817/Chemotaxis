@@ -85,3 +85,4 @@ class Cow {
     fill(0);
     ellipse(myX-3,myY-3,2,2);
     //image(img, myX, myY);
+}
